@@ -52,7 +52,7 @@ export default function Home() {
             className="text-base sm:text-lg lg:text-xl text-muted-foreground max-w-2xl mx-auto font-light leading-relaxed"
           >
             I build immersive web experiences that merge creativity with engineering precision. 
-            Specializing in React, Node.js, and WebGL.
+            Specializing in React, Node.js, and TypeScript.
           </motion.p>
         </motion.div>
 
